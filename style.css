@@ -1,0 +1,63 @@
+body{
+    margin:0px ;
+    padding: 0px;
+    background-color: darkslategrey ;
+    background: url("./cheeta.avif");
+    background-color: rgb(245, 242, 242); 
+    background-position: center;
+    background-size: cover;
+     background-position:fixed; 
+     background-repeat:no-repeat ; 
+    /* height:700px; */
+}
+h1{
+    color: rgb(11, 10, 10);
+    text-align: center;
+    background-color: darkgrey;
+    border: 5px solid black;
+    border-radius: 10px;
+    text-shadow:3px 3px whitesmoke ;
+    height: 50px;
+    padding-top: 10px;
+    font-size: 50px;
+    margin-top: 0px;
+}
+#p1{
+    border: 5px solid rgb(107, 54, 163);
+    border-width:10px;
+    font-size: 30px;
+    font-style: italic;
+    border-radius: 50px 80px;
+    text-align: center;
+    border-style: dashed;
+    color: rgb(227, 9, 9);
+}
+#p2{
+    border:5px solid rgba(21, 217, 162, 0.968);
+    border-width:10px;
+    font-size:xx-large;
+    font-family:cursive;
+    text-align: center;
+    border-top-left-radius: 50px;
+    border-top-right-radius:50px ;
+    border-style: dotted dashed solid double;
+    color: rgb(248, 244, 244);
+   
+}
+#p3{
+    border: 5px solid rgb(186, 39, 194) ;
+    border-width:10px;
+   font-size: 40px;
+   font-family: monospace;
+   text-align: center;
+   border-bottom-left-radius: 45px;
+   border-bottom-right-radius:45px ;
+   border-style: double;
+   color: rgb(219, 10, 10);
+}
+footer{
+    color: cornsilk;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
